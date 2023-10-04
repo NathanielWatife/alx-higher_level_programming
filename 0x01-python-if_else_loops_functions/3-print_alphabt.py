@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-# loop through the ASCII values of lowercase letters
-for char in range(ord('a'), ord('z') + 1):
-    if char != ord('e') and char != ord('q'):
-        print(chr(char), end=" ")
+# loop through the ASCII values of lowercase letter
+print("".join([
+    "abcdefghijklmnopqrstuvwxyz"[i] \
+    for i in range(len("abcdefghijklmnopqrstuvwxyz")) if i != 16 and i != 24
+]))
+
