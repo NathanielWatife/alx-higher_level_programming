@@ -4,7 +4,8 @@ def square_matrix_simple(matrix=[]):
     Args:
     matrix: A 2-dimensional array.
     Returns:
-    A new matrix of the same size as the input matrix, with each element squared.
+    A new matrix of the same size as the input matrix,
+    with each element squared.
     """
     new_matrix = []
     for row in matrix:
