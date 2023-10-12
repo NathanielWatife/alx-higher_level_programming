@@ -4,7 +4,7 @@ def uniq_add(my_list=[]):
     Args:
     my_list: A list of integers.
     Returns:
-    The sum of all unique integers in the list. 
+    The sum of all unique integers in the list.
     """
     unique_set = set()
     for element in my_list:
