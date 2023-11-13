@@ -58,4 +58,3 @@ class Square(Rectangle):
             else:
                 Dictorionary[x] = y
         return Dictorionary
-
