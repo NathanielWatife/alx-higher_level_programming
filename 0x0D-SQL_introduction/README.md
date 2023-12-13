@@ -15,7 +15,7 @@
     - [Databases] (https://intranet.alxswe.com/concepts/37)
     - [Databases] (https://intranet.alxswe.com/concepts/556)
 
-    - ![Image] (https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg)
+    - !(/home/dev_nath/Documents/workspace/alx_projects/alx-higher_level_programming/0x0D-SQL_introduction/rtcwz.jpg)
 
 ## Resources
 #### Read or watch:
