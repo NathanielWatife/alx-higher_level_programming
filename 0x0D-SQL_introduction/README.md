@@ -1,5 +1,6 @@
 # 0x0D-SQL_introduction
-#####  SQL           ##### MySQL
+#####  SQL           
+##### MySQL
 
 
 - In  a nutshell...
@@ -14,7 +15,7 @@
     - [Databases] (https://intranet.alxswe.com/concepts/37)
     - [Databases] (https://intranet.alxswe.com/concepts/556)
 
-    - !(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg)
+    - ![Image] (https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg)
 
 ## Resources
 #### Read or watch:
