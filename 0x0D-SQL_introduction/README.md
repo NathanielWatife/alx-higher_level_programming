@@ -15,7 +15,6 @@
     - [Databases] (https://intranet.alxswe.com/concepts/37)
     - [Databases] (https://intranet.alxswe.com/concepts/556)
 
-    - !(/home/dev_nath/Documents/workspace/alx_projects/alx-higher_level_programming/0x0D-SQL_introduction/rtcwz.jpg)
 
 ## Resources
 #### Read or watch:
