@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' /home/dev_nath/Documents/workspace/alx_projects/alx-higher_level_programming/0x0F-python-object_relational_mapping/venv/bin/python3 "$0" "$@"
-' '''
+#!/root/alx-higher_level_programming/0x0F-python-object_relational_mapping/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
