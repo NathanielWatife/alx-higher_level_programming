@@ -1,10 +1,3 @@
 #!/usr/bin/node
-
-const firstLine = process.argv[2];
-const secondLine = process.argv[3];
-
-if (firstLine !== undefined && secondLine !== undefined) {
-  console.log(`${firstLine} is ${secondLine}`);
-} else {
-  console.log('Undefined is Undefined');
-}
+// script that prints two arguments passed to it, in the following format: “ is ”
+console.log(`${process.argv[2]} is ${process.argv[3]}`);
